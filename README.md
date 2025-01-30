@@ -18,7 +18,7 @@ Soy estudiante y autodidacta de programación, con experiencia en el desarrollo 
 
 - **Lenguajes:** JavaScript, TypeScript, Python, Kotlin  
 - **Frontend:** HTML, CSS, TailwindCSS, React  
-- **Backend:** ![image]({https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white}), ![image]({https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white}), ![image]({https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white})
+- **Backend:** ![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white), ![image](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white), ![image](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 - **Bases de datos:** PostgreSQL, MySQL  
 - **Infraestructura:** Docker, Kubernetes, AWS, Nginx  
 - **Otros:** Git, REST APIs, Apache Kafka
