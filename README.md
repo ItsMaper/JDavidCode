@@ -18,7 +18,7 @@ Soy estudiante y autodidacta de programación, con experiencia en el desarrollo 
 
 - **Lenguajes:** JavaScript, TypeScript, Python, Kotlin  
 - **Frontend:** HTML, CSS, TailwindCSS, React  
-- **Backend:** Node.js, Express.js, NestJS  
+- **Backend:** ![image]({https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white}), ![image]({https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white}), ![image]({https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white})
 - **Bases de datos:** PostgreSQL, MySQL  
 - **Infraestructura:** Docker, Kubernetes, AWS, Nginx  
 - **Otros:** Git, REST APIs, Apache Kafka
@@ -32,21 +32,16 @@ Estoy desarrollando **Arnica**, mi propio proyecto, que cuenta con una landing p
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=JDavidCode&show_icons=true&locale=en&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JDavidCode&show_icons=true&locale=en)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JDavidCode)
+![jdavidcode's Stats](https://github-readme-stats.vercel.app/api?username=jdavidcode&theme=dracula&show_icons=true&hide_border=true&count_private=false)
 
 ---
 
-## 📫 ¡Conectemos!
-
-Si quieres colaborar o simplemente charlar sobre tecnología, no dudes en contactarme.
-
-[![Stack Overflow](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg)](https://stackoverflow.com/users/20978738) 
-[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/juananaaya)  
-[![YouTube](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg)](https://www.youtube.com/c/juananaaya)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://stackoverflow.com/users/20978738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20978738" height="30" width="40" /></a>
+<a href="https://instagram.com/juananaaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juananaaya" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/juananaaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="juananaaya" height="30" width="40" /></a>
+</p>
 
 📧 **Email:** davidanayaacosta@gmail.com
 
