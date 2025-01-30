@@ -9,8 +9,6 @@ Soy estudiante y autodidacta de programación, con experiencia en el desarrollo 
 
 ## 🏆 Logros y Métricas
 
-![Profile Views](https://komarev.com/ghpvc/?username=JDavidCode&label=Profile%20views&color=0e75b6&style=flat)
-
 ![jdavidcode's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jdavidcode&theme=dracula&hide_border=true)
 
 ![jdavidcode's Stats](https://github-readme-stats.vercel.app/api?username=jdavidcode&theme=dracula&show_icons=true&hide_border=true&count_private=false)
