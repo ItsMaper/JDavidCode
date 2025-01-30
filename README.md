@@ -8,9 +8,12 @@ Soy estudiante y autodidacta de programación, con experiencia en el desarrollo 
 ---
 
 ## 🏆 Logros y Métricas
+
 ![Profile Views](https://komarev.com/ghpvc/?username=JDavidCode&label=Profile%20views&color=0e75b6&style=flat)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=JDavidCode&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![jdavidcode's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jdavidcode&theme=dracula&hide_border=true)
+
+![jdavidcode's Stats](https://github-readme-stats.vercel.app/api?username=jdavidcode&theme=dracula&show_icons=true&hide_border=true&count_private=false)
 
 ---
 
@@ -24,16 +27,11 @@ Soy estudiante y autodidacta de programación, con experiencia en el desarrollo 
 - **Infraestructura:** ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white), ![image](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white), ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white), ![image](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)  
 - **Otros:** ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white), ![image](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white), ![image](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 
+![jdavidcode's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jdavidcode&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 ---
 
 ## 🚀 Proyecto actual: **Arnica**
 Estoy desarrollando **Arnica**, mi propio proyecto, que cuenta con una landing page y múltiples páginas independientes. También estoy implementando un sistema de autenticación con JWT y cookies.
-
----
-
-## 📊 GitHub Stats
-
-![jdavidcode's Stats](https://github-readme-stats.vercel.app/api?username=jdavidcode&theme=dracula&show_icons=true&hide_border=true&count_private=false)
 
 ---
 
