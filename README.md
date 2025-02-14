@@ -29,8 +29,8 @@ I am a self-taught programming student with experience in web development. I lov
 
 ---
 
-## 🚀 Current Project: **Arnica**
-I am developing **Arnica**, my own project, which features a landing page and multiple independent pages. I am also implementing an authentication system using JWT and cookies.
+## 🚀 Current Project: **Avento**
+I am developing **Avento**, my own project, which features a landing page and multiple independent pages. I am also implementing an authentication system using JWT and cookies.
 
 ---
 
